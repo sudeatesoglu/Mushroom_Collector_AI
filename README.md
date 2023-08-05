@@ -2,10 +2,11 @@
 
 ![](https://www.pygame.org/docs/_static/pygame_tiny.png)
 
-Mushroom Collector is a simple game made with Python containing specific functions. The goal is to collect non-poisonous mushrooms. A sound effect indicates when multiples of five mushrooms are collected. At the same time, the total count of poisonous and non-poisonous mushrooms collected is displayed on the screen. The game ends with an accompanying sound effect if five poisonous mushrooms are collected.
+Mushroom Collector is a simple game made with Python containing specific functions. The goal is to collect non-poisonous mushrooms. A sound effect indicates when multiples of five non-poisonous mushrooms are collected. At the same time, the total number of poisonous (toxic) and non-poisonous (count) mushrooms collected is displayed on the screen. The game ends with an accompanying sound effect if five poisonous mushrooms are collected.
 
 - Poisonous mushrooms: 💀
 - Non-poisonous mushrooms: 🍄
+<br>
 
 ![game-gif](https://github.com/sudeatesoglu/mushroom_collector/assets/106230756/ef89d1e3-c0f3-48ee-9c88-4a90a8ef6b92)
 
