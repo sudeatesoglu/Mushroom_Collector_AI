@@ -6,6 +6,10 @@ Mushroom Collector is a simple game made with Python containing specific functio
 
 - Poisonous mushrooms: 💀
 - Non-poisonous mushrooms: 🍄
+
+## Requirements
+- Python 3.x
+- pygame
 <br>
 
 ![game-gif](https://github.com/sudeatesoglu/mushroom_collector/assets/106230756/ef89d1e3-c0f3-48ee-9c88-4a90a8ef6b92)
