@@ -7,6 +7,9 @@ The goal is to collect non-poisonous mushrooms while avoiding poisonous ones.
 This project implements the game using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm,
 which evolves artificial neural networks to control the basket's movement based on the positions of the mushrooms.
 
+- Poisonous mushrooms: 💀
+- Non-poisonous mushrooms: 🍄
+
 ## Requirements
 - Python 3.x
 - pygame
@@ -21,8 +24,7 @@ which evolves artificial neural networks to control the basket's movement based 
 The NEAT algorithm is configured using a configuration file (`neat-config.txt`).
 
 ## Running the NEAT Algorithm
-To run the NEAT algorithm and evolve the neural networks, execute the `run()` function in the `mushroom_collector.py` script.
-This function initializes the NEAT algorithm with the provided configuration file and runs the game using the evolved neural networks.
+To run the game with NEAT algorithm with the provided configuration file and evolve the neural networks, execute the `run()` function in the `mushroom_collector.py`.
 
 ```python
 if __name__ == "__main__":
